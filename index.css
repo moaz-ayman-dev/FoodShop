@@ -1,0 +1,53 @@
+*{
+    /* dol thwabet lya f el css */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+body{
+    background-image: url("WhatsApp Image 2026-07-16 at 11.58.51 AM.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: brown;
+    margin-top: 20px;
+}
+hr{
+    margin: 20px;
+    background-color: brown;
+    height: 3px;
+    width: 450px;
+}
+a{
+    text-decoration: none;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: brown;
+    color: wheat;
+    padding: 5px 15px;
+    border-radius: 20px;
+    box-shadow: 0 10px 15px black;
+}
+a:hover{
+    background-color: transparent;
+    color: brown;
+}
+img{
+    width: 450px;
+    height: 300px;
+    margin: 13px 0;
+}
+h3{
+    font-size: 25px;
+    color: brown;
+
+}
+p{
+    font-weight: bold;
+    margin: 0 450px;
+}
